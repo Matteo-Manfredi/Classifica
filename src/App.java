@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Persona p = new Persona("Gianni",3);
+        Persona p = new Persona("alberto",3);
         Persona p1 = new Persona("Gianno Beethoven",10);
         Persona p2 = new Persona("Giorgio",30);
         Persona p3 = new Persona("Giovanni",5);
