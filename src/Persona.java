@@ -10,7 +10,7 @@ public class Persona {
         this.nome=nome;
         setPunti(punti);
     }
-    
+    //coglione
     public Persona getPersona(){
         return this;
     }
